@@ -1,0 +1,60 @@
+#header {
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: blue;
+}
+
+h1.header a {
+    color: black;
+}
+
+h1.header a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li.navbar {
+    float: left;
+}
+
+li.navbar a {
+    display: block;
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+li.navbar a:hover {
+    background-color: white;
+}
+
+nav {
+    background-color: lightblue;
+    padding-left: 30px;
+}
+
+#content {
+    padding: 20px;
+    width: 50%;
+}
+
+#fullwidth-content {
+    padding: 20px;
+}
+
+iframe {
+    border: none;
+    width: 100%;
+    height: 100%;
+}

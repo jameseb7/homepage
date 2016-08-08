@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Baxter</title>
+    <description></description>
+    <link>https://www-users.cs.york.ac.uk/~jeb531/~jeb531/</link>
+    <atom:link href="https://www-users.cs.york.ac.uk/~jeb531/~jeb531/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 08 Aug 2016 13:08:58 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 13:08:58 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
