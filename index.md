@@ -18,10 +18,10 @@ facilitate the creation of certifiable real-time systems. There has
 been work on verification of SCJ programs in the
 [hiJaC project](http://www.cs.york.ac.uk/circus/hijac) and its areas
 of application include robotics, making it a good implementation
-language for the [RoboCalc](http://www.cs.york.ac.uk/circus/RoboCalc)
-project. I am working on modelling of an SCJ virtual machine in the
-Circus specification language and and verification of a compilation
-strategy from Java bytecode to C to permit native execution of SCJ
-programs.
+language for the ongoing
+[RoboCalc project](http://www.cs.york.ac.uk/circus/RoboCalc). I am
+working on modelling of an SCJ virtual machine in the Circus
+specification language and and verification of a compilation strategy
+from Java bytecode to C to permit native execution of SCJ programs.
 
 **Email**: jeb531 [at] york.ac.uk
