@@ -24,4 +24,5 @@ working on modelling of an SCJ virtual machine in the Circus
 specification language and and verification of a compilation strategy
 from Java bytecode to C to permit native execution of SCJ programs.
 
-**Email**: jeb531 [at] york.ac.uk
+**Email**: jeb531 [at] york.ac.uk  
+**Phone**: +44 (0)1904 325437
