@@ -18,9 +18,11 @@ as a research associate in July 2018. This is part of the wider
 [RoboStar](http://www.cs.york.ac.uk/robostar) group of projects and
 focusses on model-based test case development using the graphical
 specification notation
-[RoboChart](https://www.cs.york.ac.uk/robostar/notations-tools). I am
-working on extending the semantics of RoboChart to distinguish inputs
-and outputs, and using that information to extract timed test cases.
+[RoboChart](https://www.cs.york.ac.uk/robostar/notations-tools).
+During this, I have extended the semantics of RoboChart to distinguish
+inputs and outputs, and developed a strategy to extract timed test
+cases. I currenly working to develop a language called RoboWorld to
+describe the environment of a robot.
 
 I completed my PhD at the University of York in January 2019, with a
 thesis entitled [Ahead-of-time Algebraic Compilation for
