@@ -16,13 +16,16 @@ My current research is on developing a formal testing strategy for
 robot software as part of the RoboTest project, on which I began work
 as a research associate in July 2018. This is part of the wider
 [RoboStar](http://www.cs.york.ac.uk/robostar) group of projects and
-focusses on model-based test case development using the graphical
+focuses on model-based test case development using the graphical
 specification notation
 [RoboChart](https://www.cs.york.ac.uk/robostar/notations-tools).
 During this, I have extended the semantics of RoboChart to distinguish
 inputs and outputs, and developed a strategy to extract timed test
-cases. I currenly working to develop a language called RoboWorld to
-describe the environment of a robot.
+cases. I am currently working to develop a language called RoboWorld
+to describe the environment of a robot. My current focus is defining
+the semantics of RoboWorld using a hybrid variant of Circus called
+CyPhyCircus, and working to apply hybrid model checkers to allow
+checking of the semantics.
 
 I completed my PhD at the University of York in January 2019, with a
 thesis entitled [Ahead-of-time Algebraic Compilation for
