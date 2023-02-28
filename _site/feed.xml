@@ -3,10 +3,10 @@
   <channel>
     <title>James Baxter</title>
     <description></description>
-    <link>https://www-users.york.ac.uk/~jeb531/~jeb531/</link>
-    <atom:link href="https://www-users.york.ac.uk/~jeb531/~jeb531/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Feb 2023 15:33:34 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Feb 2023 15:33:34 +0000</lastBuildDate>
+    <link>https://www-users.york.ac.uk/~jeb531/</link>
+    <atom:link href="https://www-users.york.ac.uk/~jeb531/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Feb 2023 15:44:51 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2023 15:44:51 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
   </channel>
